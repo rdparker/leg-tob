@@ -1,0 +1,4 @@
+Tob's Leg and Foot Rigging Tutorial
+
+This is an archive of my working through [[http://blenderartists.org/forum/showthread.php?t=172128
+][Tob's Rigged Character Demo for Blender 2.5]].
