@@ -2,3 +2,20 @@ Tob's Leg and Foot Rigging Tutorial
 
 This is an archive of my working through [[http://blenderartists.org/forum/showthread.php?t=172128
 ][Tob's Rigged Character Demo for Blender 2.5]].
+
+Various bones have been placed on separate armature layers.  If the layers are numbered:
+
+|---+----+----+----+----+----+----+----|
+| 1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+|---+----+----+----+----+----+----+----|
+
+Then
+
++ The IK bones are on layer 1
++ The FK bones are on layer 2
++ The IK control bones are on layer 3
++ The widgets for the control bones are on layer 9
+
+If you have any questions just ask, rdparker@gmail.com, but I can be a
+little slow getting to my email, so please be patient.
